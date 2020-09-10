@@ -1,0 +1,17 @@
+table{
+   border: 1px solid black;
+}
+
+table img {
+   width: 100%;
+   max-width: 400px;
+}
+
+body {
+   font-family: Tahoma;
+   background-color: green;
+}
+
+nav a {
+   color:tomato;
+}
